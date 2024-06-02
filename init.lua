@@ -17,4 +17,4 @@ require("lazy").setup("plugins")
 require("remap")
 require("set")
 
-vim.cmd[[colorscheme tokyonight]]
+vim.cmd[[colorscheme tokyonight-night]]
